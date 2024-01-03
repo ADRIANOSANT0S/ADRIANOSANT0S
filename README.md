@@ -6,7 +6,7 @@
 
 📚 Além do código, sou entusiasta de esportes, sustentabilidade, negócios globais e estou sempre em busca de novas maneiras de expandir meu conhecimento. 🌍⚽️🌐
 
-### Habilidades
+### SKILLS
 💻 Principais tecnologias com as quais trabalho
 <div style="display: inline_blok"></br>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -24,12 +24,13 @@
 
 Estou sempre explorando novas tecnologias. Adoro desafios que envolvam resolver problemas complexos e encontrar soluções inovadoras.
 
-### Detalhes
+### DETALHES
 ![ADRIANOSANT0S GitHub stats](https://github-readme-stats.vercel.app/api?username=ADRIANOSANT0S&show_icons=true&theme=tokyonight)
 
-### Linguagens Utilizadas
+### LINGUAGENS UTILIZADAS
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADRIANOSANT0S&layout=compact&theme=tokyonight)
-### Contatos
+
+### CONTATO
 
 📫 Vamos conectar? Estou sempre aberto a colaborações e novas oportunidades. Você pode me encontrar no
 
