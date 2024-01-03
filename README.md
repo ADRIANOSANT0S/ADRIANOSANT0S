@@ -4,7 +4,7 @@
 
 🔧 No meu tempo livre, contribuo para projetos de código aberto que considero significativos. Acredito na comunidade e na colaboração como forças impulsionadoras para o progresso tecnológico.
 
-📚 Além do código, sou entusiasta de esportes, sustentabilidade e estou sempre buscando novas maneiras de expandir meu conhecimento. 🌍⚽️🧠.
+📚 Além do código, sou entusiasta de esportes, sustentabilidade, negócios globais e estou sempre em busca de novas maneiras de expandir meu conhecimento. 🌍⚽️🌐
 
 ### Habilidades
 💻 Principais tecnologias com as quais trabalho
