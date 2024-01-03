@@ -29,7 +29,7 @@ Estou sempre explorando novas tecnologias. Adoro desafios que envolvam resolver 
 
 ### LINGUAGENS UTILIZADAS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADRIANOSANTOS&layout=donut-vertical)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADRIANOSANTOS&layout=donut-vertical)](https://github.com/ADRIANOSANT0S)
 
 ### CONTATO
 
