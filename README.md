@@ -28,7 +28,8 @@ Estou sempre explorando novas tecnologias. Adoro desafios que envolvam resolver 
 ![ADRIANOSANT0S GitHub stats](https://github-readme-stats.vercel.app/api?username=ADRIANOSANT0S&show_icons=true&theme=tokyonight)
 
 ### LINGUAGENS UTILIZADAS
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADRIANOSANT0S&layout=compact&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADRIANOSANTOS&layout=donut-vertical)]()
 
 ### CONTATO
 
