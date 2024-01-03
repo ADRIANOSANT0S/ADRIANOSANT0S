@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou Adriano!
 
-🚀 Desenvolvedor entusiasta na arte de transformar conceitos em código, me especializando em desenvolvimento full stack. Como estudante, estou sempre em busca de novos desafios para aprimorar minhas habilidades. 🌱
+🚀 Engenheiro de Software entusiasta na arte de transformar conceitos em código, me especializando em desenvolvimento full stack. Como estudante, estou sempre em busca de novos desafios para aprimorar minhas habilidades. 🌱
 
 ### Habilidades
 💻 Trabalho principalmente com
