@@ -25,11 +25,11 @@
 Estou sempre explorando novas tecnologias. Adoro desafios que envolvam resolver problemas complexos e encontrar soluções inovadoras.
 
 ### DETALHES
-![ADRIANOSANT0S GitHub stats](https://github-readme-stats.vercel.app/api?username=ADRIANOSANT0S&show_icons=true&theme=tokyonight)
+![ADRIANOSANT0S GitHub stats](https://github-readme-stats.vercel.app/api?username=ADRIANOSANT0S&show=stars,commits,prs&hide=contribs,prs,discussions_started,discussions_answered,prs_merged,&theme=tokyonight)
 
 ### LINGUAGENS UTILIZADAS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADRIANOSANTOS&layout=donut-vertical)](https://github.com/ADRIANOSANT0S)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADRIANOSANT0S&layout=compact&theme=tokyonight)
 
 ### CONTATO
 
