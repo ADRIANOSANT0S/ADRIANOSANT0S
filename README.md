@@ -29,7 +29,7 @@ Estou sempre explorando novas tecnologias. Adoro desafios que envolvam resolver 
 
 ### LINGUAGENS UTILIZADAS
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADRIANOSANT0S&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADRIANOSANT0S&layout=compact)
 
 ### CONTATO
 
