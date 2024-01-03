@@ -2,8 +2,12 @@
 
 🚀 Engenheiro de Software entusiasta na arte de transformar conceitos em código, me especializando em desenvolvimento full stack. Como estudante, estou sempre em busca de novos desafios para aprimorar minhas habilidades. 🌱
 
+🔧 No meu tempo livre, contribuo para projetos de código aberto que considero significativos. Acredito na comunidade e na colaboração como forças impulsionadoras para o progresso tecnológico.
+
+📚 Além do código, sou entusiasta de esportes, sustentabilidade e estou sempre buscando novas maneiras de expandir meu conhecimento. 🌍⚽️🧠.
+
 ### Habilidades
-💻 Trabalho principalmente com
+💻 Principais tecnologias com as quais trabalho
 <div style="display: inline_blok"></br>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
@@ -15,7 +19,7 @@
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img alt="" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </div></br>
 
 Estou sempre explorando novas tecnologias. Adoro desafios que envolvam resolver problemas complexos e encontrar soluções inovadoras.
