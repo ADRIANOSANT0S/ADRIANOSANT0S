@@ -2,7 +2,7 @@
 
 🚀 Engenheiro de Software entusiasta na arte de transformar conceitos em código, me especializando em desenvolvimento full stack. Como estudante, estou sempre em busca de novos desafios para aprimorar minhas habilidades. 🌱
 
-🔧 No meu tempo livre, contribuo para projetos de código aberto que considero significativos. Acredito na comunidade e na colaboração como forças impulsionadoras para o progresso tecnológico.
+<!-- 🔧 No meu tempo livre, contribuo para projetos de código aberto que considero significativos. Acredito na comunidade e na colaboração como forças impulsionadoras para o progresso tecnológico. -->
 
 📚 Além do código, sou entusiasta de esportes, sustentabilidade, negócios globais e estou sempre em busca de novas maneiras de expandir meu conhecimento. 🌍⚽️🌐
 
