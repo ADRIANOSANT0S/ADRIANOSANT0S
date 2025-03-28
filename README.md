@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou Adriano!
 
-🚀 Engenheiro de Software entusiasta na arte de transformar conceitos em código, me especializando em desenvolvimento full stack. Como estudante, estou sempre em busca de novos desafios para aprimorar minhas habilidades. 🌱
+Software Engineer in training, specializing in DevOps and Blockchain, with a focus on developing scalable, high-performance solutions. Throughout my journey, I have gained experience in various projects, always emphasizing scalability, operational efficiency, and collaboration among stakeholders. My goal is to transform ideas into robust solutions, aligning cutting-edge technology with agile and scalable development practices.
 
 <!-- 🔧 No meu tempo livre, contribuo para projetos de código aberto que considero significativos. Acredito na comunidade e na colaboração como forças impulsionadoras para o progresso tecnológico. -->
 
