@@ -21,13 +21,11 @@ Software Engineer in training, specializing in DevOps and Blockchain, with a foc
 </div></br>
 
 Estou sempre explorando novas tecnologias. Adoro desafios que envolvam resolver problemas complexos e encontrar soluções inovadoras.
-
-### DETALHES
-![ADRIANOSANT0S GitHub stats](https://github-readme-stats.vercel.app/api?username=ADRIANOSANT0S&show=stars,commits,prs&hide=contribs,prs,discussions_started,discussions_answered,prs_merged,&theme=tokyonight)
-
-### LINGUAGENS UTILIZADAS
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADRIANOSANT0S&theme=tokyonight&layout=compact)
+<div style="display: inline_blok">
+    
+   ![Adriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADRIANOSANT0S&show_icons=true&theme=tokyonight)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADRIANOSANT0S&theme=tokyonight&layout=compact)
+</div>
 
 ### CONTATO
 
